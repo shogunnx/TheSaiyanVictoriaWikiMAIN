@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wiki Index</title>
+<link rel="stylesheet" href="style.css">
+<body class="index">
+<h1>TheSaiyanVictoria — Wiki Index</h1>
+<p>Static export generated from a Fandom MediaWiki XML dump.</p>
+<input id="q" placeholder="Filter pages…" oninput="filter()">
+<ul id="list">
+<li><a href="wiki/Binary.html">Binary</a></li>
+<li><a href="wiki/Black_Frieza_-Future.html">Black Frieza (Future)</a></li>
+<li><a href="wiki/Characters.html">Characters</a></li>
+<li><a href="wiki/Community_Creations.html">Community Creations</a></li>
+<li><a href="wiki/Drakor.html">Drakor</a></li>
+<li><a href="wiki/Evil_Victoria.html">Evil Victoria</a></li>
+<li><a href="wiki/Gas_Mask_Clan_Saga.html">Gas Mask Clan Saga</a></li>
+<li><a href="wiki/Harmony.html">Harmony</a></li>
+<li><a href="wiki/How_to_Submit_Your_OC.html">How to Submit Your OC</a></li>
+<li><a href="wiki/Items.html">Items</a></li>
+<li><a href="wiki/Jerks_in_the_Lobby_-Incident.html">Jerks in the Lobby (Incident)</a></li>
+<li><a href="wiki/Kai_-Dojo_Master.html">Kai (Dojo Master)</a></li>
+<li><a href="wiki/Locations.html">Locations</a></li>
+<li><a href="wiki/MIRA.html">MIRA</a></li>
+<li><a href="wiki/Main_Page.html">Main Page</a></li>
+<li><a href="wiki/Mature_Lore_Hub.html">Mature Lore Hub</a></li>
+<li><a href="wiki/Mira_2.html">Mira</a></li>
+<li><a href="wiki/OCTEMPLATE_ORIGINAL.html">OCTEMPLATE ORIGINAL</a></li>
+<li><a href="wiki/OC_Character_Template.html">OC Character Template</a></li>
+<li><a href="wiki/Prologue_-_The_Arrival_of_the_Sisters_and_Brother.html">Prologue - The Arrival of the Sisters and Brother</a></li>
+<li><a href="wiki/Residence-Home_Base.html">Residence/Home Base</a></li>
+<li><a href="wiki/Rivals_and_Allies.html">Rivals and Allies</a></li>
+<li><a href="wiki/Rutaba.html">Rutaba</a></li>
+<li><a href="wiki/Sadala_and_Peas.html">Sadala and Peas</a></li>
+<li><a href="wiki/Start_Here.html">Start Here</a></li>
+<li><a href="wiki/Story_Villains.html">Story Villains</a></li>
+<li><a href="wiki/Succubus_Vanessa.html">Succubus Vanessa</a></li>
+<li><a href="wiki/Sweety.html">Sweety</a></li>
+<li><a href="wiki/The_Past_Warrior.html">The Past Warrior</a></li>
+<li><a href="wiki/The_Saiyan_Victoria_Lore_Universe_Wiki.html">The Saiyan Victoria Lore Universe Wiki</a></li>
+<li><a href="wiki/Timeline_Hub.html">Timeline Hub</a></li>
+<li><a href="wiki/Trakeena.html">Trakeena</a></li>
+<li><a href="wiki/Transformations.html">Transformations</a></li>
+<li><a href="wiki/Universe_Timeline.html">Universe Timeline</a></li>
+<li><a href="wiki/Vanessa.html">Vanessa</a></li>
+<li><a href="wiki/Veiss.html">Veiss</a></li>
+<li><a href="wiki/Veronica.html">Veronica</a></li>
+<li><a href="wiki/Victoria_Black.html">Victoria Black</a></li>
+<li><a href="wiki/Victoria_Chaser.html">Victoria Chaser</a></li>
+<li><a href="wiki/Wargirl.html">Wargirl</a></li></ul>
+<script>
+function filter(){
+  const q = document.getElementById('q').value.toLowerCase();
+  for (const li of document.querySelectorAll('#list li')){
+    li.style.display = li.textContent.toLowerCase().includes(q) ? '' : 'none';
+  }
+}
+</script>
+</body></html>
