@@ -1,3 +1,3 @@
 User-agent: *
-Allow: /
-Sitemap: https://thesaiyanvictoria.com/sitemap.xml
+Disallow:
+Sitemap: https://wiki.thesaiyanvictoria.com/sitemap.xml
