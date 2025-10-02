@@ -1,4 +1,3 @@
-/robots.txt    https://wiki.thesaiyanvictoria.com/wiki/robots.txt    200
-/sitemap.xml   https://wiki.thesaiyanvictoria.com/wiki/sitemap.xml   200
-/*             /index.html    200
-
+/robots.txt /wiki/robots.txt 200
+/sitemap.xml /wiki/sitemap.xml 200
+/* /index.html 200
