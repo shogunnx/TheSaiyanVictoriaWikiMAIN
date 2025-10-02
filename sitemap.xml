@@ -1,43 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Binary.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Black_Frieza_-Future.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Characters.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Community_Creations.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Drakor.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Evil_Victoria.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Gas_Mask_Clan_Saga.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Harmony.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/How_to_Submit_Your_OC.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Items.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Jerks_in_the_Lobby_-Incident.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Kai_-Dojo_Master.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Locations.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/MIRA.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Main_Page.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Mature_Lore_Hub.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Mira.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/OCTEMPLATE_ORIGINAL.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/OC_Character_Template.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Prologue_-_The_Arrival_of_the_Sisters_and_Brother.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Residence-Home_Base.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Rivals_and_Allies.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Rutaba.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Sadala_and_Peas.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Start_Here.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Story_Villains.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Succubus_Vanessa.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Sweety.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/The_Past_Warrior.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/The_Saiyan_Victoria_Lore_Universe_Wiki.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Timeline_Hub.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Trakeena.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Transformations.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Universe_Timeline.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Vanessa.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Veiss.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Veronica.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Victoria_Black.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Victoria_Chaser.html</loc></url>
-  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Wargirl.html</loc></url>
+
+  <!-- Main Pages -->
+  <url><loc>https://wiki.thesaiyanvictoria.com/</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Main_Page</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/The_Saiyan_Victoria_Lore_Universe_Wiki</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Start_Here</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Timeline_Hub</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Universe_Timeline</loc></url>
+
+  <!-- Characters -->
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Binary</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Black_Frieza_(Future)</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Characters</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Drakor</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Evil_Victoria</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Harmony</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Kai_(Dojo_Master)</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/MIRA</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Mira</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Rutaba</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Sadala_and_Peas</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Succubus_Vanessa</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Sweety</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/The_Past_Warrior</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Trakeena</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Vanessa</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Veiss</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Veronica</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Victoria_Black</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Victoria_Chaser</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Wargirl</loc></url>
+
+  <!-- Storylines & Lore -->
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Gas_Mask_Clan_Saga</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Jerks_in_the_Lobby_(Incident)</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Prologue_-_The_Arrival_of_the_Sisters_and_Brother</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Rivals_and_Allies</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Story_Villains</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Transformations</loc></url>
+
+  <!-- Locations & Items -->
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Locations</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Residence_Home_Base</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Items</loc></url>
+
+  <!-- Community Pages -->
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Community_Creations</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/How_to_Submit_Your_OC</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/OCTEMPLATE_ORIGINAL</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/OC_Character_Template</loc></url>
+  <url><loc>https://wiki.thesaiyanvictoria.com/wiki/Mature_Lore_Hub</loc></url>
+
 </urlset>
