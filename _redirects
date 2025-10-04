@@ -1,5 +1,3 @@
-# Force all .pages.dev traffic to the wiki domain
-https://*.pages.dev/*  https://wiki.thesaiyanvictoria.com/:splat  301!
-
-# Catch-all (optional safety): send any weird paths to the wiki root
-/*  /:splat  200
+/robots.txt   /robots.txt   200
+/sitemap.xml  /sitemap.xml  200
+/*            /:splat       200
